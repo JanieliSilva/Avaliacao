@@ -4,6 +4,6 @@ Universidade Federal Rural do Semi-árido
 DETEC
 
 Professor: KENNEDY REURISON LOPES
-Integrantes: ANA SANTANA CLEMENTINO DE ARAÚJO
+Integrantes: ANA SANTANA CLEMENTINO DE ARAÚJO,
              JANIELI TAINAR DA SILVA
 
